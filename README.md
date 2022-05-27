@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @luciaxuzheyi
-- 👀 I’m interested in EVERYTHING INTERESTING! (Well, and also easy to understand)
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on Python/C Language Learning Group.
+- 👀 I’m interested in EVERYTHING INTERESTING!
+- 🌱 I’m currently learning Computer Science @ UoPeople.
+- 💞️ I’m looking to apply for CS related master's programs.
 - 📫 How to reach me:
+      My email: luciaxuzheyi@outlook.com
+      My blog: zheyixu.vercel.app
       My LinkedIn: https://www.linkedin.com/in/zheyixu/
 
 <!---
